@@ -5,7 +5,7 @@
 
 ### José Antonio Vacas @javacasm
 
-[![CCbySA](images/CCbySQ_88x31.png)](./images/Licencia_CC.png)
+![CCbySA](./images/Licencia_CC.png)
 
 ## [https://github.com/javacasm/RoboticaPrimariaPriego](https://github.com/javacasm/RoboticaPrimariaPriego)
 
