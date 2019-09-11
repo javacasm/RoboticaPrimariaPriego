@@ -1,4 +1,13 @@
-Robótica en educación Primaria: Scratch, Echidna y Makey-makey
+# Robótica en educación Primaria: Scratch, Echidna y Makey-makey
+
+## CEP Priego-Montilla
+
+
+### José Antonio Vacas @javacasm
+
+[![CCbySA](images/CCbySQ_88x31.png)](./images/Licencia_CC.png)
+
+## [https://github.com/javacasm/RoboticaPrimariaPriego](https://github.com/javacasm/RoboticaPrimariaPriego)
 
 ### Justificación
 
@@ -28,3 +37,12 @@ Echidna y Makey-Makey son dos placas electrónicas que nos facilitan enormemente
 * Presentación de Echidna 
 * Lectura de sensores físicos con Echidna y Scratch
 * Control de actuadores con Echidna y Scratch
+
+### Sesiones del curso
+
+|Sesiones|Horario|
+|---|---|
+| 8 Octubre|17-20|
+|15 Octubre|17-20|
+|17 Octubre|17-20|
+|22 Octubre|17-20|
