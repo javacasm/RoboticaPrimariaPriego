@@ -1,10 +1,30 @@
-Sobre el curso de robótica para primaria se me ocurre que podemos hacer 2 acercamientos:
-* Usando un Kit Bq o similar y aprendiendo la programación con bloques. Se puede hacer algo interesante en 15-18h
-* Otra opción es hablar sobre las distintas alternativas y dedicarles unas horas a cada uno para que sepan las alternativas que tienen y las posibilidades. Yo tengo uno de casi todos y podría llevarlos a la clase para que los vieran y probaran. Serían unas 12-15 horas
-*  Robot ensamblados tipo Escornabot donde veríamos su montaje incluso su uso en infantil
-*  Makey-Makey
-*  Otras alternativas
-    * Lego
-    * Mecano
-    * Edison
-Por supuesto que en la 1ª opción se puede dedicar una clase a mostrar las otras alternativas.
+Robótica en educación Primaria: Scratch, Echidna y Makey-makey
+
+### Justificación
+
+En esta sociedad tan ligada a las tecnologías de la información, es importante introducir a los profesores y alumnos en la programación. Se trata de hacer que los ordenadores realicen las tareas que nosotros deseamos, además de usar las aplicaciones que otros crearon para nosotros.
+
+Cada vez se introducen antes los conceptos relacionados con la programación y la robótica en los niveles educativos.
+
+En los ciclos de educación primaria se puede realizar una acercacimiento trabajando el pensamiento computacional con  herramientas que nos permite trabajar en proyectos robóticos desde esas edades, como son Scratch para la programación y Echidna o Makey-Makey para la parte física
+
+Con Scratch podemos programar nuestras propias historias interactivas, juegos y utilidades y compartir nuestras creaciones en una comunidad virtual. Scratch es una buena herramienta pedagógica, ya que ayuda a los jóvenes a pensar creativamente, a razonar sistemáticamente y a trabajar colaborativamente, habilidades esenciales para su desarrollo vital.
+
+Echidna y Makey-Makey son dos placas electrónicas que nos facilitan enormemente el uso de componentes electrónicos y su interacción y control con el ordenador, pudiendo programarse fácilmente con
+
+### Objetivos
+
+* Conocer Scratch y como  facilita la comprensión del proceso de programación
+* Conocer Echidna y como nos acerca el mundo físico con Scratch
+* Controlando y midiendo el mundo físico con Echidna: sensores y actuadores
+* Aprender a crear proyectos con Makey-makey
+
+
+
+### Contenidos
+
+* Introducción a Scratch
+* Conexión con el mundo físico con Makey-Makey
+* Presentación de Echidna 
+* Lectura de sensores físicos con Echidna y Scratch
+* Control de actuadores con Echidna y Scratch
