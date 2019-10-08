@@ -1,16 +1,3 @@
-# Scratch, aprender programando [(191813GE031)](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/191813GE031/) 
-
-## CEP Guadix
-
-### José Antonio Vacas @javacasm
-
-[![CCbySA](imagenes/CCbySQ_88x31.png)](./imagenes/Licencia_CC.png)
-
-## https://github.com/javacasm/ScratchGuadix
-
-* * * 
-
-
 # Programación en la educación
 
 ## La moda de la robótica y la programación
@@ -93,4 +80,4 @@ Són muchos los [estudios](http://programamos.es/evidencias-cientificas-de-los-b
   * Fomentando la **creatividad**
 * Facilita el aprendizaje del **entorno tecnológico**
 
-## [Un ejemplo: Granada Mágica](./AlhambraMagica.md)
+
