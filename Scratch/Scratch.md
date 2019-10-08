@@ -1,15 +1,3 @@
-# Scratch, aprender programando [(191813GE031)](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/191813GE031/) 
-
-## CEP Guadix
-
-### José Antonio Vacas @javacasm
-
-[![CCbySA](imagenes/CCbySQ_88x31.png)](./imagenes/Licencia_CC.png)
-
-## https://github.com/javacasm/ScratchGuadix
-
-* * * 
-
 # [Scratch](https://scratch.mit.edu/)
 
 ### Es un entorno de programación creado en el **MIT** por [Mitchel Resnick](https://www.media.mit.edu/people/mres)
@@ -26,6 +14,8 @@ Podemos usarlo desde [acceso web](https://scratch.mit.edu/projects/editor) y com
 [(Hay 2 versiones antiguas para usar offline: la 1.4 y la 2.0)](./versiones.md)
 
 La versión 2.0 usa tecnología propietaria de Adobe (Air), por lo podría no funcionar en todos los dispositivos
+
+La versón 3.0 es HTML puro
 
 ## Extensiones
 
@@ -59,7 +49,7 @@ Existe una enorme [comunidad](https://scratch.mit.edu/starter_projects/)
 
 ## Puntos de partida
 
-![PuntoPartida.jpg](./imagenes/PuntoPartida.jpg)
+![PuntoPartida.jpg](../imagenes/PuntoPartida.jpg)
 
 ## ¡¡Vamos a dibujar!!
 
@@ -83,7 +73,7 @@ Existe una enorme [comunidad](https://scratch.mit.edu/starter_projects/)
 	7. Línea
 	8. Giro
 
-![cuadradoSinBucle](./imagenes/CuadradoSinBucle.png)
+![cuadradoSinBucle](../imagenes/CuadradoSinBucle.png)
 
 ## Antes de hacer otro ejemplo vamos a guardar este. Podemos hacerlo dándole nombre y también podemos descargarlo a nuestro PC
 
@@ -94,17 +84,17 @@ Existe una enorme [comunidad](https://scratch.mit.edu/starter_projects/)
 
 #### Usaremos el bucle
 
-![cuadradoConBucle](./imagenes/CuadradoConBucle.png)
+![cuadradoConBucle](../imagenes/CuadradoConBucle.png)
 
 * * *
 
 ### ¿ Y si hacemos más de 4 giros?
 
-![Espiral](./imagenes/Espiral.png)
+![Espiral](../imagenes/Espiral.png)
 
 ### ¿Y si repetimos muchos cuadrados?
 
-![Spirograph](./imagenes/Spirograph.png)
+![Spirograph](../imagenes/Spirograph.png)
 
 
 
@@ -145,7 +135,7 @@ Los parámetros tienen un rango: el color entre 0 y 200 de manera cíclica
 
 ### Nos permiten almacenar valores que pueden cambiar
 
-![Variables.png](./imagenes/Variables.png)
+![Variables.png](../imagenes/Variables.png)
 
 # Tarea 0: rehacer el dibujo del polígono definiendo variables
 
@@ -157,15 +147,15 @@ Los parámetros tienen un rango: el color entre 0 y 200 de manera cíclica
 
 ### Scratch nos permite definir nuevos bloques
 
-![Bloques](./imagenes/Bloques.png)
+![Bloques](../imagenes/Bloques.png)
 
 Ejercicio: Dibujar una estralla formada por n polígonos de m lados, cada uno de un color
 
-![bloques propioes](./imagenes/BloquesPropios.png)
+![bloques propioes](../imagenes/BloquesPropios.png)
 
 ## Sentencias de Control
 
-![control](./imagenes/Control.png)
+![control](../imagenes/Control.png)
 
 ### Usando bucles repetitivos
 ### Ejercicio : estrella de 60 cuadrados de colores
@@ -177,16 +167,16 @@ Ejercicio: Dibujar una estralla formada por n polígonos de m lados, cada uno de
 
 ## Moviéndonos por la pantalla
 
-![coordenadas](./imagenes/3_ejes.png)
+![coordenadas](../imagenes/3_ejes.png)
 
 ## Personaje
 
-![gatitoScratch.jpg](./imagenes/gatitoScratch.jpg)
+![gatitoScratch.jpg](../imagenes/gatitoScratch.jpg)
 
 
 ### Cada personaje lleva su propio programa
 
-![mov](./imagenes/3_movimientos_basicos_bruja.png)
+![mov](../imagenes/3_movimientos_basicos_bruja.png)
 
 ## Las coordenadas son unas "variables especiales"
 
@@ -196,14 +186,14 @@ Ejercicio: Dibujar una estralla formada por n polígonos de m lados, cada uno de
 
 # Ejercicio: Vamos a mover un personaje con las teclas
 
-![Mejor](./imagenes/movimiento.png)
+![Mejor](../imagenes/movimiento.png)
 
 ### Un mismo personaje puede tener varios disfraces
 
 
 ### Ejercicio: crea una animación con varios disfraces
 
-![disfraces](./imagenes/disfraz.png)
+![disfraces](../imagenes/disfraz.png)
 
 
 ### Los personajes hablan!!
@@ -215,11 +205,11 @@ Ejercicio: Dibujar una estralla formada por n polígonos de m lados, cada uno de
 
 ### Añadiendo azar
 
-![azar](./imagenes/azar.png)
+![azar](../imagenes/azar.png)
 
 ### Pueden interaccionar entre sí
 
-![interacción](./imagenes/12_codigo_estrella.png)
+![interacción](../imagenes/12_codigo_estrella.png)
 
 ### Añadiendo puntos
 
