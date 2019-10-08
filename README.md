@@ -2,6 +2,7 @@
 
 ## CEP Priego-Montilla
 
+## Octubre de 2019
 
 ### José Antonio Vacas @javacasm
 
@@ -32,17 +33,20 @@ Echidna y Makey-Makey son dos placas electrónicas que nos facilitan enormemente
 
 ### Contenidos
 
-* Introducción a Scratch
-* Conexión con el mundo físico con Makey-Makey
-* Presentación de Echidna 
-* Lectura de sensores físicos con Echidna y Scratch
-* Control de actuadores con Echidna y Scratch
+* [Introducción a la Programación](./IniciacionProgramacion.md)
+* [Introducción a  Scratch](./ScratchIniciacion.md)
+* Conexión con el mundo físico con [Makey-Makey](./MakeyMakey/)
+* Presentación de [Echidna](./Echidna.md)
+* Lectura de sensores físicos con [Echidna y Scratch](./Echidna.md)
+* [Introducción a la robótica](./IniciacionRobotica.md)
+* Control de actuadores con [Echidna y Scratch](./Echidna.md)
 
 ### Sesiones del curso
 
 |Sesiones|Horario|
 |---|---|
-| 8 Octubre|17-20|
-|15 Octubre|17-20|
-|17 Octubre|17-20|
-|22 Octubre|17-20|
+| 8 Octubre|17-20:30|
+|15 Octubre|17-20:30|
+|17 Octubre|17-20:30|
+|22 Octubre|17-20:30|
+|¿__29 Octubre__|__17-20:30__?|
