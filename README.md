@@ -48,6 +48,5 @@ Echidna y Makey-Makey son dos placas electrónicas que nos facilitan enormemente
 |---|---|
 | 8 Octubre|17-20:30|
 |15 Octubre|17-20:30|
-|17 Octubre|17-20:30|
 |22 Octubre|17-20:30|
-|¿__29 Octubre__|__17-20:30__?|
+|29 Octubre|17-20:30|
