@@ -8,7 +8,7 @@
 
 ![CCbySA](./images/Licencia_CC.png)
 
-## [https://github.com/javacasm/RoboticaPrimariaPriego](https://github.com/javacasm/RoboticaPrimariaPriego)
+## http://bit.ly/RPPriego
 
 ### Justificación
 
