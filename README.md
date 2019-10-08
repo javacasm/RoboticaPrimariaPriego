@@ -33,8 +33,9 @@ Echidna y Makey-Makey son dos placas electrónicas que nos facilitan enormemente
 
 ### Contenidos
 
+* [¿Por qué programar?](./contexto.md)
 * [Introducción a la Programación](./IniciacionProgramacion.md)
-* [Introducción a  Scratch](./Scratch/ScratchIniciacion.md)
+* [Introducción a  Scratch](./Scratch/Scratch.md)
 * Conexión con el mundo físico con [Makey-Makey](./MakeyMakey/)
 * Presentación de [Echidna](./Echidna.md)
 * Lectura de sensores físicos con [Echidna y Scratch](./Echidna.md)
