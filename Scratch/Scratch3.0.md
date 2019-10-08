@@ -1,14 +1,3 @@
-# Scratch, aprender programando [(191813GE031)](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/191813GE031/) 
-
-## CEP Guadix
-
-### José Antonio Vacas @javacasm
-
-[![CCbySA](imagenes/CCbySQ_88x31.png)](./imagenes/Licencia_CC.png)
-
-## https://github.com/javacasm/ScratchGuadix
-
-* * * 
 
 # [Scratch 3.0](https://scratch.mit.edu/)
 
