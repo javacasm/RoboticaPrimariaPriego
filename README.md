@@ -44,9 +44,9 @@ Echidna y Makey-Makey son dos placas electrónicas que nos facilitan enormemente
 
 ### Sesiones del curso
 
-|Sesiones|Horario|
-|---|---|
-| 8 Octubre|17-20:30|
-|15 Octubre|17-20:30|
-|22 Octubre|17-20:30|
-|29 Octubre|17-20:30|
+|Sesiones Montilla|Sesiones Priego|Horario|
+|---|---|---|
+| 8 Octubre| 9 Octubre|17-20:30|
+|15 Octubre|16 Octubre|17-20:30|
+|22 Octubre|23 Octubre|17-20:30|
+|29 Octubre|30 Octubre|17-20:30|
