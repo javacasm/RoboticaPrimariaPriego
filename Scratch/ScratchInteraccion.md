@@ -1,5 +1,3 @@
-ScratchInteraccion.md
-
 ## Eventos
 ### Teclas
 ### Raton
@@ -47,4 +45,14 @@ ScratchInteraccion.md
 
 ![disfraces](.../images/disfraz.png)
 
+
+## Interacción entre personajes
+
+### Colisiones
+
+### Uso de teclas
+
+### Sonido
+
+### Vídeo
 
