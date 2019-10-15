@@ -14,6 +14,10 @@ Scratch Link permite conectar Scratch 3.0 con hardware de otros fabricantes
 * Lego Wedo
 * Microbit
 
+## La mochila
+
+Creamos un bloque, lo guardamos en la mochila y lo recuperamos en otro proyecto
+
 ## Ideas y tutoriales
 
 Tutoriales incluidos
