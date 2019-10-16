@@ -41,6 +41,7 @@ Echidna y Makey-Makey son dos placas electrónicas que nos facilitan enormemente
 * Lectura de sensores físicos con [Echidna y Scratch](./Echidna.md)
 * [Introducción a la robótica](./IniciacionRobotica.md)
 * Control de actuadores con [Echidna y Scratch](./Echidna.md)
+* Otros [proyectos robóticos](./OtrosProyectos.md): [micro:bit](./Microbit.md)
 
 ### Sesiones del curso
 
@@ -49,4 +50,4 @@ Echidna y Makey-Makey son dos placas electrónicas que nos facilitan enormemente
 | 8 Octubre| 9 Octubre|17-20:30|
 |15 Octubre|16 Octubre|17-20:30|
 |22 Octubre|23 Octubre|17-20:30|
-|29 Octubre|30 Octubre|17-20:30|
+|24 Octubre|30 Octubre|17-20:30|
