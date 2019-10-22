@@ -1,3 +1,15 @@
+# Robótica en educación Primaria: Scratch, Echidna y Makey-makey
+
+## CEP Priego-Montilla
+
+## Octubre de 2019
+
+### José Antonio Vacas @javacasm
+
+![CCbySA](./images/Licencia_CC.png)
+
+## http://bit.ly/RPPriego
+
 # [Echidna](http://echidna.es/)
 
 Echidna es un escudo/shield de Arduino y que incluye mucho sensores y componentes ya soldados, de manera que podemos trabajar con Arduino sin necesidad de saber manipular la electrónica necesaria
