@@ -1,3 +1,15 @@
+# Robótica en educación Primaria: Scratch, Echidna y Makey-makey
+
+## CEP Priego-Montilla
+
+## Octubre de 2019
+
+### José Antonio Vacas @javacasm
+
+![CCbySA](./images/Licencia_CC.png)
+
+## http://bit.ly/RPPriego
+
 # ¿Qué es la robótica?
 
 Duración 1 hora
