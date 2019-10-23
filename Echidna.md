@@ -63,7 +63,56 @@ En linux
 Y pulsamos conectar
 
 ![conectar](https://www.mblock.cc/doc/en/basics/images/chromebook-7.png)
-    
+
+## Ejemplos
+
+### Hello LED!!
+
+Haremos parpadear el led Rojo
+
+![Hello LED!](./images/HelloLed!.png)
+
+[Proyecto](https://planet.mblock.cc/project/102035)
+
+### Led RGB
+
+![Mezcla colores](./images/Colores-MezclaRGB.jpeg)
+
+[Selector de colores](https://htmlcolorcodes.com/es/)
+
+Utilizamos el led RGB (conectado a lo pines digitales 9,5,6)
+
+[Ejemplo](https://planet.mblock.cc/project/projectshare/101707)
+
+Y a la vez haremos que se vayan leyendo los colores en inglés, con la extensión Text To Speech.
+
+Parece que hay algo de desajuste. Tendremos que mejorar la comunicación con ... mensajes    
+
+![Programa Arduino](./images/Colores-Arduino.png)
+![Programa Osito](./images/Colores-Osito.png)
+
+
+### Nivel de luz
+
+Usaremos los 3 leds de colores para indicar el nivel de luz:
+* Rojo: luz baja
+* Amarillo: nivel de luz medio
+* Verde: luz suficiente
+
+### Controlando el movimiento de Osito con el Joystick
+
+Sabemos que el joystick está conectado a los pines analógicos A0 (eje x) y A1 (eje y). Vamos a ver los valores que encontramos.
+
+Vemos como la lectura de los sensores analógicos fluctúa, es algo normal. Un hardware más preciso (y caro) tendría una lectura más exacta.
+
+Creamos una variables x e y para Arduino y comprobamos los valores del joystick
+
+![Joystick Arduino](./images/Joystick-Arduino.png)
+
+![Joystick Osito](./images/Joystick-Osito.png)
+
+[Proyecto](https://planet.mblock.cc/project/102052) 
+
 ## Prácticas
 
 1. [Puesta en marcha](https://docs.google.com/presentation/d/1NYOY1towdBt71wKYxt_jLBhTYYsIkpvGYDGA5utdINU/pub?start=false&loop=false&delayms=3000&slide=id.g1d7972fb46_0_58)
