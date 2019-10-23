@@ -82,14 +82,14 @@ Haremos parpadear el led Rojo
 
 Utilizamos el led RGB (conectado a lo pines digitales 9,5,6)
 
-[Ejemplo](https://planet.mblock.cc/project/projectshare/101707)
-
 Y a la vez haremos que se vayan leyendo los colores en inglés, con la extensión Text To Speech.
 
 Parece que hay algo de desajuste. Tendremos que mejorar la comunicación con ... mensajes    
 
 ![Programa Arduino](./images/Colores-Arduino.png)
 ![Programa Osito](./images/Colores-Osito.png)
+
+[Programa](https://planet.mblock.cc/project/projectshare/101707)
 
 
 ### Nivel de luz
@@ -113,7 +113,41 @@ Creamos una variables x e y para Arduino y comprobamos los valores del joystick
 
 [Proyecto](https://planet.mblock.cc/project/102052) 
 
-## Prácticas
+### Controlar el movimiento de Osito con el acelerómetro
+
+Modificar el ejemplo anterior para que controlemos a Osito con el acelerómetro
+
+Pista: modificar el programa para usar el sensor adecuado
+
+[Proyecto](https://planet.mblock.cc/project/102061)
+
+### Controlamos la posición de 2 servos usando el joystick
+
+![2xServos-Joystick](./images/2xServos-Joystick.png)
+
+Controlamos la posición de 2 servos usando el joystick
+
+[Proyecto](https://planet.mblock.cc/project/102156)
+
+### Haciendo ruído
+
+Veamos como hacer sonido con el zumbador: activamos y desactivamos rápidamente
+
+Un poquito de física sobre frecuencias y periodos....
+
+![Frecuencias y periosdos](./images/frecuenciaYperiodo.png)
+
+![Sonido 440Hz Original](./images/Sonido440HzOrig.png)
+
+Veremos que en modo "en vivo" no es suficientemente rápido y tenemos que irnos a modo Arduino
+
+![Sonido 440Hz](./images/Sonido440.png)
+
+[Programa](https://planet.mblock.cc/project/102073)
+
+Ejercicio: Ver como cambia el movimiento al enviar el programa anterior de los servos en modo Arduino
+
+## Más prácticas
 
 1. [Puesta en marcha](https://docs.google.com/presentation/d/1NYOY1towdBt71wKYxt_jLBhTYYsIkpvGYDGA5utdINU/pub?start=false&loop=false&delayms=3000&slide=id.g1d7972fb46_0_58)
 2. [Señales digitales - Morse](https://docs.google.com/presentation/d/e/2PACX-1vRHtGnZqarnsH3gNz8kqsuLxwNFLnBqoz2RtxcgU1ee6OVge2knzkpjZ1kya5J7RGla3NIzE5lV3HL1/pub?start=false&loop=false&delayms=3000&slide=id.g5e67d40e2f_0_222)
@@ -125,6 +159,7 @@ Creamos una variables x e y para Arduino y comprobamos los valores del joystick
 7. [TeleSketch](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/3_entradas_de_echidna/33_joystick/331-telesketch.html)
 8. [Bluetooth](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/5_extensiones/51_bluetooth.html)
 9. [Ultrasonidos](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/5_extensiones/54-ultrasonidos.html)
+
 ## Documentación
 
 [Documentación de Javier Quintana para Catedu](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/) [PDF](https://legacy.gitbook.com/download/pdf/book/catedu/programa-arduino-con-echidna) [Ejemplos](https://github.com/JavierQuintana/Echidna)
