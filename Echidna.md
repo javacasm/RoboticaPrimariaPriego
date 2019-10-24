@@ -99,6 +99,10 @@ Usaremos los 3 leds de colores para indicar el nivel de luz:
 * Amarillo: nivel de luz medio
 * Verde: luz suficiente
 
+![NivelLuminoso](./images/NivelLuminoso.png)
+
+[Proyecto](https://planet.mblock.cc/project/102785)
+
 ### Controlando el movimiento de Osito con el Joystick
 
 Sabemos que el joystick está conectado a los pines analógicos A0 (eje x) y A1 (eje y). Vamos a ver los valores que encontramos.
