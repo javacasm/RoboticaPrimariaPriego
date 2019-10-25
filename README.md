@@ -42,6 +42,8 @@ Echidna y Makey-Makey son dos placas electrónicas que nos facilitan enormemente
 * [Introducción a la robótica](./IniciacionRobotica.md)
 * Control de actuadores con [Echidna y Scratch](./Echidna.md)
 * Otros [proyectos robóticos](./OtrosProyectos.md): [micro:bit](./Microbit.md)
+* [Proyectos](./Proyectos.md)
+* [Recursos](./recursos.md)
 
 ### Sesiones del curso
 
