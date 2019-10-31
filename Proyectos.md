@@ -121,4 +121,25 @@ Una Makey-Makey nos permite detectar cuál forma estamos tocando
 
 ![](./images/Proyecto1.jpg)
 
+## Batería
 
+Usamos una placa Makey-makey para reproducir distintos sonidos
+
+![](./images/bateria.png)
+
+![](./images/Notas.png)
+![](./images/instrumento.png)
+
+![](./images/bateria.jpg)
+
+[Proyecto](https://scratch.mit.edu/projects/340880761/)
+
+## Kahoot físico
+
+Sistema para hacer votaciones similar a KaHoot
+
+![](./images/khoot.jpg)
+
+![](./images/)
+
+[Proyecto](https://scratch.mit.edu/projects/340884761/)
