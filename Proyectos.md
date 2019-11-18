@@ -94,6 +94,7 @@ Usamos una make-makey para que el usuario encuentre las correspondencias. Un sen
 ![](./images/Quizz-blocks.png)
 
 [Proyecto](https://scratch.mit.edu/projects/341130424/)
+
 ## Semáforo sonoro
 
 Conectamos un sensor de sonido (un micrófoco premplificado) a la entrada IN de la echidna que utiliza el pin analógico A4. En función del valor leído encendemos los leds Verde, Amarillo o Rojo
