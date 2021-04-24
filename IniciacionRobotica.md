@@ -29,9 +29,9 @@ A quien responda
 * Distinguir Robot de autómata o de herramienta
 * Aprovechar las descripciones que hacen para ir dando conceptos
 * Se puede hablar de:
-    * Robot de limpieza: 2 ruedas/motores, sensores de choque, de paredes, detectgores de suelo, motor del aspirador ¿Saben buscar su casita?
+    * Robot de limpieza: 2 ruedas/motores, sensores de choque, de paredes, detectores de suelo, motor del aspirador ¿Saben buscar su casita?
     * Robot de cocina: diferenciar de las "herramientas eléctricas de cocina". Motor/batidora, báscula, calentador,...
-    * Parking automática: barreras, cámaras lectoras de matrícula, sensores de ocupación, pantallas, cajeros, sensores de humos, ventilación... 
+    * Parking automático: barreras, cámaras lectoras de matrícula, sensores de ocupación, pantallas, cajeros, sensores de humos, ventilación... 
     * ¿Un coche es un robot? ¿y uno que conduce él solo? (Ejemplos de Tesla)
     
 ### Conceptos a buscar

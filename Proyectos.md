@@ -89,6 +89,7 @@ Programa para que Osito reconozca las frutas
 Usamos una make-makey para que el usuario encuentre las correspondencias. Un sencillo programa tiene las respuestas correctas. Cada una de las preguntas/respuestas están conectadas a makey-makey y el usuario conectado a tierra tiene que tocar las parejas
 
 ![](./images/Proyecto3b.jpg)
+
 ![](./images/Proyecto3.jpg)
 
 ![](./images/Quizz-blocks.png)
@@ -96,9 +97,10 @@ Usamos una make-makey para que el usuario encuentre las correspondencias. Un sen
 [Proyecto](https://scratch.mit.edu/projects/341130424/)
 ## Semáforo sonoro
 
-Conectamos un sensor de sonido (un micrófoco premplificado) a la entrada IN de la echidna que utiliza el pin analógico A4. En función del valor leído encendemos los leds Verde, Amarillo o Rojo
+Conectamos un sensor de sonido (un micrófono premplificado) a la entrada IN de la echidna que utiliza el pin analógico A4. En función del valor leído encendemos los leds Verde, Amarillo o Rojo
 
 ![](./images/Proyecto4b.jpg)
+
 ![](./images/Proyecto4.jpg)
 
 ![](./images/NivelSonoro.png)
@@ -107,11 +109,13 @@ Conectamos un sensor de sonido (un micrófoco premplificado) a la entrada IN de 
 
 ## Medida de humedad del suelo y sistema de riego
 
-Vamos a medir la humedad del suelo para crear un sistema automático de riego
-* Conectamos un sensor de humedad de suelo a la entrada IN de echidna (A4)
-* Conectamos un servomotor para simular a la válvula/grifo que enciende el riego. Alternativamente podemos usarlo para mover un cartel/indicador que nos diga que la planta tiene sed
+Vamos a medir la humedad del suelo para crear un sistema automático de riego:
 
-![riego](./images/Riego.png)
+* Conectamos un sensor de humedad de suelo a la entrada IN de echidna (A4)
+* Conectamos un servomotor para simular a la válvula/grifo que enciende el riego. 
+* Alternativamente podemos usarlo para mover un cartel/indicador que nos diga que la planta tiene sed
+
+![Sistema de riego con Echidna](./images/Riego.png)
 
 ![](./images/SensorHumedadArduino.png)
 
@@ -120,13 +124,10 @@ En función del nivel de humedad enviamos 3 mensajes distintos: Húmedo, Seco y 
 Se han creado varios fondos y varios personajes que cambian al recibir los mensajes
 
 ![](./images/SensorHumedadFondo.png)
+
 ![](./images/SensorHumedadObjetos.png)
 
-
-
-
 [Proyecto](https://planet.mblock.cc/project/103662)
-
 
 ## Trabajando con formas
 
@@ -141,6 +142,7 @@ Usamos una placa Makey-makey para reproducir distintos sonidos
 ![](./images/bateria.png)
 
 ![](./images/Notas.png)
+
 ![](./images/instrumento.png)
 
 ![](./images/bateria.jpg)
