@@ -19,7 +19,7 @@
 
 #### Alimentación
 
-Funciona a 3V y dispone de un conector de bateria y de alimentación por USB (MicroUSB)
+Funciona a 3V y dispone de un conector de batería y de alimentación por USB (MicroUSB)
 
 
 #### Micro
@@ -39,7 +39,7 @@ ARM M0 (32 bits) a 16MHz con 16k de RAM
 
 [Bluetooth](http://microbit.org/es/mobile/) de bajo consumo
 
-Comunicaciones via radio entre distintas microbits
+Comunicaciones vía radio entre distintas microbits
 
 [App microbit](https://play.google.com/store/apps/details?id=com.samsung.microbit&hl=es) Nos permite interaccionar con la placa e incluso programarla
 
@@ -56,7 +56,7 @@ Comunicaciones via radio entre distintas microbits
 
 [Programando en python](http://python.microbit.org/)
 
-[Python en Mibrobit](https://www.python.org/community/microbit/)
+[Python en micro:bit](https://www.python.org/community/microbit/)
 
 [Programando con el IDE de Arduino](https://learn.adafruit.com/use-micro-bit-with-arduino?view=all)
 
@@ -77,7 +77,7 @@ Complementos/shields
 
 http://www.instructables.com/id/Remote-Controlled-Microbit-Robot/
 
-![robot](https://cdn.instructables.com/F0W/1HA0/J30ST2ON/F0W1HA0J30ST2ON.LARGE.jpg)
+![robot](./images/robot_microbit.jpg)
 
 #### [MaQueen](./MaQueen.md)
 
@@ -164,11 +164,11 @@ EJEMPLO: Control de iluminación digital y analógico
 
 [Control de iluminación II](https://makecode.microbit.org/_7ayKTtKvXFcc)
 
-![ControlIluminacionII](./images/ControlIluminacionII.png)
+![Control Iluminación II](./images/ControlIluminacionII.png)
 
-[ControlIluminacion III](https://makecode.microbit.org/_TVJAFy9mjJ3Y)
+[Control de Iluminación III](https://makecode.microbit.org/_TVJAFy9mjJ3Y)
 
-![ControlIluminacion2](./images/ControlIluminacionIII.png)
+![Control de Iluminación 2](./images/ControlIluminacionIII.png)
 
 ## Eventos
 
